@@ -36,7 +36,7 @@ Open Git Bash and change the directory to the location where the repository is t
   git init
 ```
 ```shell
-  git clone https://github.com/kovidjuneja/The_best_image_classifier
+  git clone https://github.com/orgdrhacker/IMAGE_AUTHENTICITY_DETECTOR
 ```
 Now, install the requirements using the following command.
 
