@@ -26,6 +26,26 @@ Performance of the model on different metrics:
 3. F1 score: 0.77159
 4. ROC AUC score: 0.77141
 
-## Access
 
-You can directly access the model via this link : https://imageclassifier-figwm6jwfksxal84rkb8lf.streamlit.app/
+## Installation
+
+
+Open Git Bash and change the directory to the location where the repository is to be cloned. Then, type the following commands.
+
+```shell
+  git init
+```
+```shell
+  git clone https://github.com/kovidjuneja/The_best_image_classifier
+```
+Now, install the requirements using the following command.
+
+```shell
+   pip install -r requirements.txt 
+```
+To access or use the application, open a terminal in the cloned repository folder and run the following command.
+
+```shell
+  streamlit run StreamLit1.py
+```
+Finally, browse the link provided in your browser.
